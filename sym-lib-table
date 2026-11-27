@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "olivetti riser")(type "KiCad")(uri "${KIPRJMOD}/olivetti riser.kicad_sym/bus_isa_16bit_slot.kicad_sym")(options "")(descr ""))
+)
